@@ -9,3 +9,13 @@
     float: left
     
 }
+
+.dark{
+    background-color: black;
+    color: green;
+}
+
+.white{
+    background-color: white;
+    color: black;
+}
